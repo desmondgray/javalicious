@@ -1,5 +1,4 @@
-#javalicious
-
+javalicious
 
 This program can take an arraylist of integers and automatically computes the sum of the numbers of the and returns the results as and int data type.      
 
